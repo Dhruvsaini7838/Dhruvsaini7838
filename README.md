@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhruvsaini7838
 - 👀 I’m interested in Coding,building Models and many more...
-- 🌱 I’m currently learning Machine Learning..
+- 🌱 I’m currently learning Full Stack Development..
 - 💞️ I’m looking to collaborate on  various projects...
 
 <!---
